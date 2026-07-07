@@ -1,4 +1,3 @@
-data_backup_checker.py
 from datetime import date
 
 last_backup = date(2026, 7, 1)
